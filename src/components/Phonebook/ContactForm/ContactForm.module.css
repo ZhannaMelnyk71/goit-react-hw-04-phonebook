@@ -1,0 +1,25 @@
+.form{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 30px;
+    outline: 1px solid black;
+    padding: 15px;
+}
+
+.form__label{
+    display: flex;
+    flex-direction: column;
+}
+
+.form__input{
+    padding: 4px;
+    font-family: inherit;
+}
+
+.formBtn{
+    padding: 10px;
+    font-size: 20px;
+    max-width: fit-content;
+}

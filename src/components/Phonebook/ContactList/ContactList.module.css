@@ -1,0 +1,13 @@
+/* .contactList{
+} */
+
+.contactList__item{
+    display: flex;
+    align-items: center;
+    gap:15px;
+    padding:5px;
+}
+
+/* .contactList__button{
+    margin-left: 15px;
+} */

@@ -1,0 +1,12 @@
+.filter{
+    display: flex;
+    gap: 15px;
+    flex-direction: column;
+    margin-bottom: 8px;
+    max-width: 300px;
+    padding: 15px;
+}
+
+.filter__input{
+    padding: 4px;
+}
